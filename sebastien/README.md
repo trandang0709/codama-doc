@@ -4,8 +4,8 @@ codamaを取り付けたRaspberryPiはNTTドコモが提供する[/project:SEBAS
 
 まず、以下の設定ガイドを参照し、codamaのセットアップを終わらせてください。
 
-* [Raspberry Piの設定ガイド](Raspberry-Pi-Setup)
-* [codamaの取り付けおよび設定ガイド](Codama-Setup)
+* [Raspberry Piの設定ガイド](https://github.com/YUKAI/codama-doc/wiki/Raspberry-Pi-Setup)
+* [codamaの取り付けおよび設定ガイド](https://github.com/YUKAI/codama-doc/wiki/Codama-Setup)
 
 ## 1. スピーカーの取り付け
 

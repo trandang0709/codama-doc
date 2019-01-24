@@ -29,14 +29,14 @@ Sebastienを利用するためのライブラリをインストールします�
 * python3系のインストール
 
 ```
-$ cd wheel
+$ cd ~/codama/codama-doc/sebastien/wheel
 $ sudo pip3 install speak-1.1.1-cp35-cp35m-linux_armv7l.whl
 ```
 
 * python2系のインストール
 
 ```
-$ cd wheel
+$ cd ~/codama/codama-doc/sebastien/wheel
 $ sudo pip install speak-1.1.1-cp27-cp27mu-linux_armv7l.whl
 ```
 

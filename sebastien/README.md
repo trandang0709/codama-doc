@@ -74,7 +74,7 @@ Sebastienのユーザダッシュボード[https://users.sebastien.ai/dashboard/
 
 <img width="500" alt="robotstart" src="https://user-images.githubusercontent.com/1875915/50274661-1e783f00-0481-11e9-8dd4-8a077969ff32.png">
 
-
+<a id="get-device-token"></a>
 ### 手順3. device_tokenを取得する。
 
 * 以下のコマンドを利用して、`device_token`を取得します。取得した`device_token`は、サンプルプログラムで利用します。
@@ -138,4 +138,12 @@ codamaはウェイク・アップ・ワードを検出するとGPIOの27をHIGH�
 $ python3 main.py
 ```
 
+#### 補足)エラーメッセージ発生時の対処（Device Token の取り直し）
 
+上記コマンド実行時に
+```
+UDS:Signature Expired(40102)
+```
+
+というエラーが発生する場合は [手順3. device_tokenを取得する。](#get-device-token) 
+からやり直してください。

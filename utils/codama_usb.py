@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 
+# This code is modified from
+# https://github.com/respeaker/usb_4_mic_array
 # Code licensed under the Apache License v2.0.
 # For details, see http://www.apache.org/licenses/LICENSE-2.0.
+# Modifications copyright (C) 2019 Yukai Engineering Inc.
 
 import sys
 import struct

@@ -101,6 +101,11 @@ codamaはウェイク・アップ・ワードを検出するとGPIOの27をHIGH�
 * `config.json.tmp` をコピーして、`config.json`をエディターで開き、`AccessToken` に取得した`device_token` を入力します。
 
 ```
+$ cp ./config.json.tmp ./config.json
+$ vi ./config.json
+```
+
+```
 {
     "Port"              : 443,
     "Host"              : "spf.sebastien.ai",
